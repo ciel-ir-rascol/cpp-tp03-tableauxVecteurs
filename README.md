@@ -60,7 +60,7 @@ Les cahiers du cinema : 0
 Le contenu du premier element est : 10 , le contenu du dernier est : 50
 ```
 - Modifiez ensuite le premier élément du vecteur pour qu'il devienne 100 et le dernier pour qu'il devienne 1000.
-- Au final le vecteur doit contenir : 100,20,30 et 1000
+- Au final le vecteur doit contenir : 100,20,30,40 et 1000
 - Pour terminer, vous afficherez à nouveau le contenu à l'écran :
 ```text
 ** Après changement **
